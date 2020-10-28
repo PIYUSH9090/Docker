@@ -9,7 +9,7 @@
 2) Then you have to build the image for your container with this command(location of terminal is that folder which contain all this 6 files) .. $ sudo docker build -t objectdetection(imagename) . 
 
 
-3) It will take some time(keep patient), After complete the process you have to make container and login to the container with only 1 command  which is .. $ sudo docker -it --entrypoint=/bin/bash objectdetection(imagename)
+3) It will take some time(keep patient), After complete the process you have to make container and login to the container with only 1 command  which is .. $ sudo docker run -it --entrypoint=/bin/bash objectdetection(imagename)
 
 4) Then it will take you into the container so you will see like that .. root@(container id):/app# 
 
