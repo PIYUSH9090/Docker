@@ -1,6 +1,9 @@
 ReadME.md
 
-After importing the OS library faced an error in running the program, so i fixed it by change the requirements.txt.
+First we should add  folder "MarkedImages" before start all the things.Other all the things same as single photo input.
+
+
+After importing the OS library faced an error in running the program, so i fixed it by change the requirements.txt file.
 
 Specified the version of opencv-python so that it does not download the latest version 
 opencv-python==4.4.0.44
@@ -23,3 +26,4 @@ werkzeug==1.0.1
 zipp==3.3.2
 matplotlib==3.3.2
 kiwisolver==1.2.0
+
