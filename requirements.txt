@@ -1,0 +1,17 @@
+tensorflow==1.13.1
+opencv-python==4.4.0.44
+keras==2.2.4
+numpy==1.19.2
+absl-py==0.10.0
+astor==0.8.1
+protobuf==3.6.0
+Keras_Preprocessing==1.1.2
+Keras_Applications==1.0.8
+gast==0.4.0
+scipy==1.5.3
+h5py==2.10.0
+mock==4.0.2
+werkzeug==1.0.1
+zipp==3.3.2
+matplotlib==3.3.2
+kiwisolver==1.2.0
